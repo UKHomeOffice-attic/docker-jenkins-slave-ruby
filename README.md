@@ -1,5 +1,7 @@
 # Jenkins Slave Docker Container: Ruby Build Tools
 
+[![Build Status](https://travis-ci.org/UKHomeOffice/docker-jenkins-slave-ruby.svg?branch=master)](https://travis-ci.org/UKHomeOffice/docker-jenkins-slave-ruby)
+
 This container is an Jenkins slave with Ruby Build Tools. It extends the 
 [Jenkins Slave Docker Container][1] by adding Ruby build tools.
 
